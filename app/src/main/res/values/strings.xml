@@ -1,0 +1,32 @@
+<resources>
+    <!-- APP -->
+    <string name="app_name">Saung Rakyat Granada</string>
+    <string name="app_profile">Profil Kamu</string>
+    <string name="app_change_password">Ubah Password</string>
+
+    <!-- BUTTON -->
+    <string name="app_btn_login">Masuk</string>
+    <string name="app_btn_register">Daftar</string>
+    <string name="app_btn_password_change">Ubah Password</string>
+    <string name="app_btn_change_password">Ubah Sekarang</string>
+    <string name="app_btn_resto_create">Buat Restomu</string>
+
+    <!-- MENU -->
+    <string name="app_menu_resto_create">Buat Resto</string>
+    <string name="app_menu_resto_delete">Hapus Resto</string>
+    <string name="app_menu_profile">Lihat Profil</string>
+    <string name="app_menu_logout">Keluar</string>
+
+    <!-- TEXT -->
+    <string name="app_txt_name">NAME</string>
+    <string name="app_txt_username">USERNAME</string>
+    <string name="app_txt_password">PASSWORD</string>
+    <string name="app_txt_password_old">PASSWORD LAMA</string>
+    <string name="app_txt_password_new">PASSWORD BARU</string>
+    <string name="app_txt_resto_name">NAMA RESTO</string>
+    <string name="app_txt_resto_category">KATEGORI</string>
+    <string name="app_txt_resto_imgurl">GAMBAR (URL)</string>
+    <string name="app_txt_resto_address">ALAMAT</string>
+    <string name="app_txt_login_do">Kalo belum ada akun, yu dibuat!</string>
+    <string name="app_txt_register_do">Sudah punya akun? Masuk aja Langsung</string>
+</resources>
